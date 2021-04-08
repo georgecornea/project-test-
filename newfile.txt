@@ -1,2 +1,3 @@
 my new file
 line 2
+some new things for the new branch
